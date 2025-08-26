@@ -154,7 +154,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Para dúvidas ou sugestões:
 - Abra uma issue no GitHub
-- Entre em contato via email: [seu-email@exemplo.com]
+- Entre em contato via email: [carlos.heitor@outlook.com]
 
 ## 🎉 Agradecimentos
 
